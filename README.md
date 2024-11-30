@@ -1,8 +1,9 @@
 # Project: Email Scheduler
 
 ### **Project Overview**
-**Email Scheduler** is a web-based application built using the MERN stack (MongoDB, Express, React, Node.js) with React Flow integration for an intuitive and dynamic workflow visualization. This application allows users to schedule tasks and send emails efficiently, leveraging the **Nodemailer** library. The backend is deployed o![FutureBlink assign UI-min](https://github.com/user-attachments/assets/a3fff834-2cb9-4553-9012-dd71abf3a3b5)
-n **Render.com**, and the frontend is hosted on **Netlify**.
+**Email Scheduler** is a web-based application built using the MERN stack (MongoDB, Express, React, Node.js) with React Flow integration for an intuitive and dynamic workflow visualization. This application allows users to schedule tasks and send emails efficiently, leveraging the **Nodemailer** library. The backend is deployed on **Render.com**, and the frontend is hosted on **Netlify**.
+
+![FutureBlink assign UI-min](https://github.com/user-attachments/assets/a3fff834-2cb9-4553-9012-dd71abf3a3b5)
 
 ### **Deployed Application**
 
